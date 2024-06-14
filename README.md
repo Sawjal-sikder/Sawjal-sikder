@@ -26,7 +26,7 @@ Hello! I'm Md Sawjal Sikder, a passionate web developer with a keen interest in 
 ### MOST USED LANGUAGE :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sawjal-sikder)](https://github.com/anuraghazra/github-readme-stats)
-
+### GITHUB STATUS :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sawjal-sikder&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sawjal-sikder/contributions?format=svg&private=true)  
