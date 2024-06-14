@@ -17,7 +17,7 @@ Hello! I'm Md Sawjal Sikder, a passionate web developer with a keen interest in 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web development 
 
-
+### SOCIAL INFORMATION:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sawjal-sikder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sawjal-sikder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/m.d.Sawjal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Sawjal-sikder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Sawjal-sikder)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sawjal-sikder)](https://github.com/ryo-ma/github-profile-trophy)
