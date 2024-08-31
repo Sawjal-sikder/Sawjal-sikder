@@ -15,7 +15,7 @@ Hello! I'm Md Sawjal Sikder, a passionate web developer with a keen interest in 
 
 
 ### ADDITIONAL INFORMATION: 
-- 🌱 I’m currently learning Python and django 
+- 🌱 I’m currently working Python Django & Rest api 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web development 
 
