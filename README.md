@@ -6,8 +6,7 @@
 Hello! I'm Md Sawjal Sikder, a passionate web developer with a keen interest in crafting user-friendly and visually appealing web experiences. I thrive on the challenges of coding and enjoy turning ideas into functional and elegant solutions.
 
 ### SKILLS: 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-          - **Framework & library:** Bootstrap, Tailwind css, React.js, Vue js
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Tailwind css, React.js, Vue js
 - **Backend:** PYTHON, DJANGO, REST API
 - **Database:**  MongoDB, MySQL, PostgreSQL
 - **Tools:** Git & Github
