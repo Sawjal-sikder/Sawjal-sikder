@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/02c38096-17a2-419a-9f31-ab8f0dcd9af9" alt="Profile Banner" width="100%"/>
-</div>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Md+Sawjal+Sikder;Full+Stack+Web+Developer!;" />
